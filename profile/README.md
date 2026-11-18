@@ -11,4 +11,4 @@
 
 归档项目处于只读状态，已停止维护。历史版本的下载与兼容性信息见各自的发布页。
 
-[浏览全部公开归档仓库](https://github.com/orgs/Indifference-Project/repositories?type=archived)
+[浏览全部公开归档仓库](https://github.com/orgs/Indifference-Project/repositories?q=archived%3Atrue)
